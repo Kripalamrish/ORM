@@ -10,3 +10,4 @@ class Car(models.Model):
     price=models.IntegerField()
 
 
+`
